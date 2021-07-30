@@ -1,0 +1,38 @@
+/*
+ * Name: Arjun Ajay Jagnani
+ * Date: July 15, 2021
+ *
+ * This is the styles.css file for index.html. This file handles all the style elements displayed
+ * on the website, including the canvas, buttons, and text on the website.
+ */
+
+ body, html, h1 {
+    margin: 0;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  header, #start {
+    color: rgb(236, 102, 113);
+  }
+  
+  header {
+    background-color: turquoise;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 25px;
+  }
+  
+  canvas {
+    border: 10px solid burlywood;
+  }
+  
+  #start {
+    font-size: 30px;
+    background-color: royalblue;
+  }
